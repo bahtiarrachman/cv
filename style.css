@@ -813,3 +813,46 @@ body {
     color: #9a3412;
     border-color: #fed7aa;
 }
+/* Additional color variants for timeline */
+
+.dot-purple {
+    background: #9333ea;
+    color: #9333ea;
+}
+
+.dot-green {
+    background: #16a34a;
+    color: #16a34a;
+}
+
+.dot-cyan {
+    background: #0891b2;
+    color: #0891b2;
+}
+
+.badge-purple {
+    background: #f3e8ff;
+    color: #6b21a8;
+}
+
+.badge-green {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.badge-cyan {
+    background: #cffafe;
+    color: #155e75;
+}
+
+.text-purple-500 {
+    color: #a855f7;
+}
+
+.text-green-500 {
+    color: #22c55e;
+}
+
+.text-cyan-500 {
+    color: #06b6d4;
+}
